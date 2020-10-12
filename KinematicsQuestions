@@ -1,0 +1,111 @@
+Assume the field in Neyland Stadium runs perfectly north and south.  Beginning with an initial position of 60.0 yds. , 90.0° from the south goal post, Mr. M marches (in linear segments) the following four displacements in succession:  d1 = 10.0 yds, 0.0°,
+d2 = 11.2 yds, 206.6°,
+d3 = 11.2 yds, 333.4°,
+d4 = 10.0 yds, 180.0°.  
+From initial to final position what is the total distance?
+Give answer to 3 sig-figs, ignore units, units = yards
+$$$
+42.4
+@@@
+The speed of light in the vacuum of space or in air is a constant value of 3.00 x 10^8 m/s.
+What amount of time does it take for light to travel from the Moon to the Earth – a distance of 384 Mm?
+Give answer to 3 sig-figs, ignore units, units = seconds
+$$$
+1.28
+@@@
+A 1956 VW Van could go from 0 to 60 mph (26.8 m/s) in 75 seconds (as measured by Road & Track).
+Determine the average rate of acceleration.
+Give answer to 2 sig-figs, ignore units, units = m/s/s
+$$$
+0.36, .36
+@@@
+A 1956 VW Van could go from 0 to 60 mph (26.8 m/s) in 75 seconds (as measured by Road & Track).
+Assuming a braking deceleration of 9.0 m/s2 what amount of time was required to return from 60 mph to 0?
+Give answer to 2 sig-figs, ignore units, units = seconds
+$$$
+3.0, 3
+@@@
+In the 1940’s rocket-powered sleds were used to test the responses of humans to acceleration.  Suppose the sled reaches a speed of 222 m/s in 2.10 s and then in another 0.90 s is brought to a stop.  Determine the greatest number of g's (in any direction) experienced by the rider.  (Use g equal to 9.80 m/s2.)
+Give answer to 3 sig-figs, ignore units, units = g
+$$$
+25.2
+@@@
+A 2010 Chevy Camaro went from zero to 20 mph, 40 mph, and 60 mph, in times of 1.1 s, 2.6 s, and 4.6 s respectively.  This is an interesting pattern because the average acceleration changes by about the same percentage for every 20 mph faster the car goes.
+By about what percent does the acceleration rate change per every 20 mph increase?
+Give answer to 2 sig-figs, ignore units
+$$$
+25, 0.25
+@@@
+A 2010 Chevy Camaro went from zero to 20 mph, 40 mph, and 60 mph, in times of 1.1 s, 2.6 s, and 4.6 s respectively.  This is an interesting pattern because the average acceleration changes by about the same percentage for every 20 mph faster the car goes.
+If the pattern continues, what time is required to go from 0 to 80 mph?
+Give answer to 2 sig-figs, ignore units, units = seconds
+$$$
+7.3
+@@@
+A skateboarder starts from rest atop a slope that is 20.0 m long and accelerates uniformly 2.60 m/s per second down the slope.
+What is the position of the skateboarder 3.00 s later from the top?
+Give answer to 3 sig-figs, ignore units, units = meters
+$$$
+11.7, -11.7
+@@@
+A skateboarder starts from rest atop a slope that is 20.0 m long and accelerates uniformly 2.60 m/s per second down the slope.
+What is the speed at that point?
+Give answer to 3 sig-figs, ignore units, units = m/s
+$$$
+7.80
+@@@
+A skateboarder starts from rest atop a slope that is 20.0 m long and accelerates uniformly 2.60 m/s per second down the slope.
+How much time overall is needed to go down the slope?
+Give answer to 3 sig-figs, ignore units, units = seconds
+$$$
+3.92
+@@@
+You are investigating an accident scene in which several cars wrecked in order to avoid a car skidding to a stop.  The skid marks are 65 m long.  A skidding car will have a deceleration rate of about 10 m/s2.  How fast was this car going before it began to skid?
+Give answer to 3 sig-figs, ignore units, units = m/s
+$$$
+36.1
+@@@
+The bullet leaves the muzzle of a Glock 17 pistol with a speed of 375 m/s.  The barrel of the pistol is 11.4 cm long.  Find the acceleration rate of the bullet passing through the barrel.
+Give answer to 3 sig-figs, ignore units, units = km/s^2
+$$$
+617, 617.
+@@@
+A moving car decelerates for 5.0 s and comes to a complete stop.  It travels 75 m in the process.
+Determine its initial value of speed.
+Give answer to 2 sig-figs, ignore units, units = m/s
+$$$
+30, 30.
+@@@
+A moving car decelerates for 5.0 s and comes to a complete stop.  It travels 75 m in the process.
+Determine its rate of deceleration.
+Give answer to 2 sig-figs, ignore units, units = m/s^2
+$$$
+6.0
+@@@
+The highest barrier that a projectile can clear is 14 m, when the projectile is launched at an angle of 30.0 degrees above the horizontal. What is the projectile's launch speed?
+Give answer to 3 sig-figs, ignore units, units = m/s
+$$$
+33.1
+@@@
+A ball is thrown from a point 1 m above the ground.  The initial velocity is 20 m/s at an angle of 40 degrees above the horizontal.
+Find the maximum height of the ball above the ground.
+Give answer to 2 sig-figs, ignore units, units = m
+$$$
+9.5
+@@@
+A ball is thrown from a point 1 m above the ground.  The initial velocity is 20 m/s at an angle of 40 degrees above the horizontal.
+Calculate the speed of the ball at the highest point in the trajectory.
+Give answer to 3 sig-figs, ignore units, units = m/s
+$$$
+15.3
+@@@
+A rocket is fired at a velocity of 80 m/s from the ground level at an angle of 50 degrees above the horizontal. The rocket is fire toward an 10 m high wall, which is located 20 m away. By how much does the rocket clear the top of the wall?
+Give answer to 3 sig-figs, ignore units, units = m
+$$$
+13.2
+@@@
+A kangaroo jumps to a vertical height of 2.8 m.  What is its total time in the air?
+Give answer to 2 sig-figs, ignore units, units = seconds
+$$$
+1.5
+
